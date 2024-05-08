@@ -1,6 +1,9 @@
 # Regis-MSDS-Graduate Certificate 
 Github landing page for MSDS Practicum II Final project for completion of Graduate Certificate course, Christian Lowson.
 
+Code for project found in "Final-Code_Christian-Lowson"
+Accompyning powerpoint provided.
+
 Primary Goals: 
 1. Apply data cleaning and EDA techniques to a real-world dataset
 2. Create and implement a plan for taking raw data and extracting useful information from data
